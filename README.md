@@ -1,4 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hey Everyone 👋, I'm Jyoti Kumari</h1>
+<h3 align="center">I'm a passionate Full-Stack Developer with a growing interest in building web applications. I enjoy learning both frontend and backend technologies, and I'm constantly looking for new challenges to improve my skills.</h3>
+<img align="right" alt="Coding" width="400" src="https://res.cloudinary.com/jyotich-15/image/upload/v1739866284/dev-Image_crkksg.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Jyoti-kumari55&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti_kumari" /> </p>
 
 <!--
 **Jyoti-kumari55/Jyoti-kumari55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

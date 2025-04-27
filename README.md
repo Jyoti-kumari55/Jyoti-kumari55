@@ -9,7 +9,7 @@
 - 📫 How to reach me 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect to me:</h3>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/jyoti-kumari-bba46316b/" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="linkedin" height="40" width="40" /></a>

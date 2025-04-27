@@ -38,7 +38,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jyoti-kumari55&show_icons=true&locale=en&layout=compact" alt="jyoti_Kumari"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jyoti-kumari55&show_icons=true&locale=en&layout=normal" alt="jyoti_Kumari"  /></p>
 </p>
 
 

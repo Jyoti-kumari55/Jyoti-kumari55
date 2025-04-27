@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Jyoti-kumari55&label=Profile%20views&color=0e75b6&style=flat" alt="jyoti_kumari" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Jyoti-kumari55/Jyoti-kumari55](https://github.com/Jyoti-kumari55/Jyoti-kumari55)
-- My Portfolio: [https://jyoti-portfolio01.netlify.app](https://jyoti-portfolio01.netlify.app)
+- 👨‍💻 My Portfolio: [https://jyoti-portfolio01.netlify.app](https://jyoti-portfolio01.netlify.app)
   
 - 📫 How to reach me 
 
